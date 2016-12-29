@@ -1,6 +1,6 @@
 # FSL.CsharpUsefulExtensionsMethods
 
-**C# Usefull Extensions Methods**
+**C# Useful Extensions Methods**
 
 Extension Methods are great C# feature and I will share some of my own extension methods that will help you in your applications. This repository will be constantly updated.
 
