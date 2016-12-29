@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/FSL.CsharpUsefullExtensionsMethods/v14
+/packages/Newtonsoft.Json.9.0.1
+/FSL.CsharpUsefullExtensionsMethods/bin/Debug
+/FSL.CsharpUsefullExtensionsMethods/obj/Debug
+/FSL.CsharpUsefullExtensionsMethods/.vs/FSL.CsharpUsefullExtensionsMethods/v14
