@@ -1,4 +1,4 @@
-# FSL.CsharpUsefullExtensionsMethods
+# FSL.CsharpUsefulExtensionsMethods
 
 **C# Usefull Extensions Methods**
 
@@ -9,7 +9,7 @@ Extension Methods are great C# feature and I will share some of my own extension
 What is in the source code?
 ---
 
-#### <i class="icon-file"></i> FSL.CsharpUsefullExtensionsMethods
+#### <i class="icon-file"></i> FSL.CsharpUsefulExtensionsMethods
 
 - Visual Studio solution file;
 - Class project with Extensions; 
