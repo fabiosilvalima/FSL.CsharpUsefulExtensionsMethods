@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace FSL.CsharpUsefullExtensionsMethods
+namespace FSL.CsharpUsefulExtensionsMethods
 {
     public static class FSLIsNullExtension
     {

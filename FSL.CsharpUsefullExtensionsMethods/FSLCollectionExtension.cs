@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace FSL.CsharpUsefullExtensionsMethods
+namespace FSL.CsharpUsefulExtensionsMethods
 {
     public static class FSLCollectionExtension
     {

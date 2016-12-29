@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace FSL.CsharpUsefullExtensionsMethods
+namespace FSL.CsharpUsefulExtensionsMethods
 {
     public static class FSLEnumExtension
     {

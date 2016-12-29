@@ -1,4 +1,4 @@
-﻿namespace FSL.CsharpUsefullExtensionsMethods
+﻿namespace FSL.CsharpUsefulExtensionsMethods
 {
     public static class FSLQueryStringExtension
     {

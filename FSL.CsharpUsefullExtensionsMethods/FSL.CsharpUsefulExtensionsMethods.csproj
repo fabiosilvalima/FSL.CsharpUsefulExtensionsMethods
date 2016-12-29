@@ -7,8 +7,8 @@
     <ProjectGuid>{8C7553A9-75A3-497B-954D-027254FD5206}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FSL.CsharpUsefullExtensionsMethods</RootNamespace>
-    <AssemblyName>FSL.CsharpUsefullExtensionsMethods</AssemblyName>
+    <RootNamespace>FSL.CsharpUsefulExtensionsMethods</RootNamespace>
+    <AssemblyName>FSL.CsharpUsefulExtensionsMethods</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

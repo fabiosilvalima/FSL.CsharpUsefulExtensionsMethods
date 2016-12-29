@@ -3,7 +3,7 @@ using System.IO;
 using System.Text;
 using System.Xml.Serialization;
 
-namespace FSL.CsharpUsefullExtensionsMethods
+namespace FSL.CsharpUsefulExtensionsMethods
 {
     public static class FSLSerializationExtension
     {        
