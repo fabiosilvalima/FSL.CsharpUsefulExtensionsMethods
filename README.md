@@ -4,7 +4,7 @@
 
 Extension Methods are great C# feature and I will share some of my own extension methods that will help you in your applications. This repository will be constantly updated.
 
-![enter image description here](https://fabiosilvalima.files.wordpress.com/2016/12/csharp-extension.png)
+![enter image description here](https://fabiosilvalima.net/wp-content/uploads/2017/01/fabiosilvalima-extension-methods-uteis-para-c-parte-1.jpg)
 
 What is in the source code?
 ---
